@@ -1,0 +1,10 @@
+
+.dojo_list{
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+}
+
+a{
+    margin-left: 20px;
+}
